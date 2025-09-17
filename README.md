@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adrián Araque</h1>
 <h3 align="center">A passionate fullstack developer from Valencia,Spain</h3>
 
-- 🔭 I’m currently working on [Envelope Saving Platform](https://github.com/adrarom/personal-budget-front-vue)
+- 🔭 I’m currently working on ibim Building Twice 🏢
 
-- 🌱 I’m currently learning **Vue, ASP .NET, NodeJS**
+- 🌱 I’m currently learning **Vue, NestJS, Microservices and FastAPI*
 
 - 👨‍💻 All of my 3D/Videogames projects are available at [https://www.therookies.co/u/adrarom](https://www.therookies.co/u/adrarom)
 
-- 💬 Ask me about **Unity,Python,Django**
+- 💬 Ask me about **Game Dev,Python,Backend**
 
 - 📫 How to reach me **adrarom@gmail.com**
 
